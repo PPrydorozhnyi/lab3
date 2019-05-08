@@ -18,9 +18,12 @@
 	<link rel="stylesheet/less" href="less/less.style1.less">
 	<link rel="stylesheet" href="css/sstyle.css">
 
+<<<<<<< HEAD
+	<title>LESS</title>
+=======
     <title>Комп'ютерний практикум №3. Git і GitHub</title>
+>>>>>>> master
 </head>
-
 <body>
 	<header>
 		<div class="container">
